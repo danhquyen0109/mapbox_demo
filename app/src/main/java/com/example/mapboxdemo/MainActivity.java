@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
                     public void onStyleLoaded(@NonNull Style style) {
 
 // Map is set up and the style has loaded. Now you can add data or make other map adjustments.
+                        //
 
 
                     }
